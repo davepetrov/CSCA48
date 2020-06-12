@@ -1,4 +1,4 @@
-# a48
+# CSCA48
 
 Note: This repos. includes exercises and assignments completed in CSCA48 (2020 Winter term) - Introduction to Computer Science II
 ***
